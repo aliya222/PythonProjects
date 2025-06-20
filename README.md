@@ -34,7 +34,7 @@ A supplementary analysis notebook showcasing data preprocessing, visual analytic
 
 ---
 
-## 🛠Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python, Jupyter Notebook
 - `pandas`, `numpy`
